@@ -1,0 +1,25 @@
+header {
+    margin-top: 10px;
+    font-family: "Oswald", sans-serif;
+    display: grid;
+    font-size: large;
+    nav {
+        display: flex;
+        word-spacing: 10px;
+        flex-direction: column;
+        color: black;
+        align-items: stretch;
+        nav ul li {
+            list-style-type: none;
+            font-size: small;
+            margin-right: 20px;
+            li {
+                display: inline-block;
+                a {
+                    text-decoration: none;
+                    color: rgb(54, 50, 50);
+                }
+            }
+        }
+    }
+}

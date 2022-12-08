@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: rgb(54, 50, 50);
+    @media(min-width:768px){
+        font-size: medium;
+        }
+    @media(min-width:1024){
+        font-size: medium;
+    word-spacing:0px;
+    text-align: end;
+    margin: 0;
+    padding: 0;
+    }
+}
